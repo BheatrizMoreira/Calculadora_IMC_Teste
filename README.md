@@ -1,4 +1,4 @@
 #
-Calculadora_IMC_Teste
+Calculadora de IMC
 ##
-- Para realização de Calculo simples do IMC 
+- Para realização de Calculo simples do indice de massa corporal.
